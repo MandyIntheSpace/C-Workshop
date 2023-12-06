@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\Workshop6\bin\Debug\net6.0\Workshop6.exe
+C:\Users\Acer\source\repos\Workshop6\bin\Debug\net6.0\Workshop6.deps.json
+C:\Users\Acer\source\repos\Workshop6\bin\Debug\net6.0\Workshop6.runtimeconfig.json
+C:\Users\Acer\source\repos\Workshop6\bin\Debug\net6.0\Workshop6.dll
+C:\Users\Acer\source\repos\Workshop6\bin\Debug\net6.0\Workshop6.pdb
+C:\Users\Acer\source\repos\Workshop6\obj\Debug\net6.0\Workshop6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Workshop6\obj\Debug\net6.0\Workshop6.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Workshop6\obj\Debug\net6.0\Workshop6.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Workshop6\obj\Debug\net6.0\Workshop6.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Workshop6\obj\Debug\net6.0\Workshop6.dll
+C:\Users\Acer\source\repos\Workshop6\obj\Debug\net6.0\refint\Workshop6.dll
+C:\Users\Acer\source\repos\Workshop6\obj\Debug\net6.0\Workshop6.pdb
+C:\Users\Acer\source\repos\Workshop6\obj\Debug\net6.0\Workshop6.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Workshop6\obj\Debug\net6.0\ref\Workshop6.dll
