@@ -17,8 +17,31 @@ namespace Workshop6
             //Rectangle rectangle = new Rectangle(4.5, 3.5);
             //Console.WriteLine(rectangle.CalculateArea
 
-            Student student = new Student("John Doe", 20, "Computer Science");
-            Console.WriteLine(student.introduce());
+            //Student student = new Student("John Doe", 20, "Computer Science");
+            //Console.WriteLine(student.introduce());
+
+            var intStack = new Stack<int>();
+            // Push operations
+            intStack.Push(10);
+            Console.WriteLine("After Push 10: " + intStack);
+            intStack.Push(20);
+            Console.WriteLine("After Push 20: " + intStack);
+            intStack.Push(30);
+            Console.WriteLine("After Push 30: " + intStack);
+
+            // Pop operation
+            intStack.Pop();
+            Console.WriteLine("After Pop: " + intStack);
+
+            // More operations
+            intStack.Push(40);
+            Console.WriteLine("After Push 40: " + intStack);
+            intStack.Pop();
+            Console.WriteLine("After Pop: " + intStack);
+            intStack.Pop();
+            Console.WriteLine("After Pop: " + intStack);
+            intStack.Push(50);
+            Console.WriteLine("After Push 50: " + intStack);
 
 
 
