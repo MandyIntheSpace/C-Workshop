@@ -40,8 +40,10 @@ namespace Workshop6
             //intStack.Push(50);
             //Console.WriteLine("After Push 50: " + intStack);
 
-            Calender calender = new Calender();
-            calender.PrintWeekdays();
+            //Calender calender = new Calender();
+            //calender.PrintWeekdays();
+
+
 
 
 
