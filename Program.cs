@@ -17,6 +17,9 @@ namespace Workshop6
             //Rectangle rectangle = new Rectangle(4.5, 3.5);
             //Console.WriteLine(rectangle.CalculateArea
 
+            Student student = new Student("John Doe", 20, "Computer Science");
+            Console.WriteLine(student.introduce());
+
 
 
         }
