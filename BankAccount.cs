@@ -11,7 +11,7 @@ namespace Workshop6
         private String accountNumber;
         private decimal balance;
 
-        public BankAccount(String accountNumber)
+        public BankAccount(string accountNumber)
         {
             this.accountNumber = accountNumber; 
             this.balance = 0;
