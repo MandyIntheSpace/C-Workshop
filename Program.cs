@@ -1,4 +1,6 @@
-﻿namespace Workshop6
+﻿using Workshop6;
+
+namespace Workshop6
 {
     internal class Program
     {
@@ -12,8 +14,11 @@
             //bankAccount.Withdraw(500);
             //Console.WriteLine(bankAccount.getBalance());
 
-            Rectangle rectangle = new Rectangle(4.5, 3.5);
-            Console.WriteLine(rectangle.CalculateArea());
+            //Rectangle rectangle = new Rectangle(4.5, 3.5);
+            //Console.WriteLine(rectangle.CalculateArea
+
+
+
         }
     }
 }
